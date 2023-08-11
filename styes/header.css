@@ -1,3 +1,5 @@
 .cabecalho{
-    background-color: var(--branco);
+    background-color: var(--branco);]
+    display: flex;
+    justify-items: center;
 }
