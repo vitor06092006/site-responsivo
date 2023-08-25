@@ -15,7 +15,7 @@
     display: inline-block;
 }
 
-.container-imagem{
+.container-imagem {
     padding: 1em;
 }
 
@@ -29,11 +29,14 @@
 }
 
 
-.container-menu{
+.container-menu {
     display: none;
     position: absolute;
     top: 100%;
-    
+}
+
+.container-botao:checked~.lista-menu {
+    display: block;
 }
 
 @media screen and (min-width: 1024px) {
