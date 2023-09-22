@@ -5,7 +5,12 @@
     padding: 2.5em 2em;
 }
 
-.banner-titulo {
+.banner-título {
     font-size: 18px;
     font-weight: 700;
+}
+
+.banner-texto {
+    font-weight: 500;
+    margin: 1em 0;
 }
