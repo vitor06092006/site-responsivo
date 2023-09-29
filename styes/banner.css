@@ -28,4 +28,5 @@
     color: var(--branco);
     font-family: var(--fonte-principal);
     font-size: 400;
+    text-align: center;
 }
