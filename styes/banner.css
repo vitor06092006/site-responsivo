@@ -29,4 +29,5 @@
     font-family: var(--fonte-principal);
     font-size: 400;
     text-align: center;
+    background-image: url("../img/Pesquisa.svg");
 }
