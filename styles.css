@@ -1,5 +1,6 @@
 @import url("styes/header.css");
 @import url("styes/banner.css");
+@import url("styes/carrossel.css")
 
 :root{
     --cor-de-fundo:#EBECEE;
