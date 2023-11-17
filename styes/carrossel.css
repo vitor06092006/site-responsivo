@@ -21,3 +21,11 @@
     position: initial;
     margin: 0.5em 0;
 }
+
+.card-1{
+    display: flex;
+}
+
+.card-2{
+    display: flex;
+}
